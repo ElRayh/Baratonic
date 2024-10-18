@@ -1,0 +1,16 @@
+/*es con class*/
+.parafooter {
+    text-align: center;
+    color: rgb(65, 171, 212);
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    /*  background-color: rgb(65, 171, 212);*/
+    background-color: #ececfc;
+    
+}
+h2 {
+    color: rgb(95, 101, 103);
+    text-align: center;
+    
+}
